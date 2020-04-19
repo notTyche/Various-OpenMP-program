@@ -5,7 +5,10 @@ Five programs written in C ++ with OpenMP optimization.
 - Calculation of the PI in 3 different ways
 
     - Standard
+    
     - Reduction
+    
     - Montecarlo
+    
 - Search for an element in a vector
 - Game of Life
