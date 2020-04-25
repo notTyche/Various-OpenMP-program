@@ -1,7 +1,7 @@
 # Varius-OpenMP-program
 Five programs written in C ++ with OpenMP optimization.
 - Operations on two matrices
-- Sum of two carriers
+- Sum and Scalar-Product of two vectors
 - Calculation of the PI in 3 different ways:
   Standard,
   Reduction,
